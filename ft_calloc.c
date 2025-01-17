@@ -18,11 +18,11 @@ void	*ft_calloc(size_t count, size_t size)
 {
 	void	*ptr;
 	size_t	total_size;
-	size_t	a;
+	//size_t	a;
 
 	ptr = NULL;
 	total_size = count * size;
-	a = 0;
+	//a = 0;
 	if (count == SIZE_MAX || size == SIZE_MAX)
 		return (NULL);
 	if (count == 0 || size == 0)
