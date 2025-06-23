@@ -15,12 +15,3 @@ Some of the contents that I tackled are:
 - 📄 File descriptors (`ft_putchar_fd`, `ft_putstr_fd`)
 - 🆕 Bonus: Linked list functions
 
----
-
-## 🛠️ How to Use
-
-Clone the repo, cd into it and compile:
-
-```bash
-make
-My own version of the libft standard C library.
