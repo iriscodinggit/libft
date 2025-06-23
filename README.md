@@ -19,10 +19,8 @@ Some of the contents that I tackled are:
 
 ## 🛠️ How to Use
 
-Clone the repo and compile:
+Clone the repo, cd into it and compile:
 
 ```bash
-git clone https://github.com/yourusername/libft.git
-cd libft
 make
 My own version of the libft standard C library.
