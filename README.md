@@ -1,6 +1,6 @@
 # 🧱 Libft | My First Personal C Library 📚✨
 
-Welcome to my **Libft** project, a compilation of my **own standard C library** functions built from scratch — because who needs to `strcpy` when you can write your own? 💪
+Welcome to my **Libft** project, a compilation of my **own standard C library** functions built from scratch... because who needs to `strcpy` when you can write your own? 💪
 
 ---
 
